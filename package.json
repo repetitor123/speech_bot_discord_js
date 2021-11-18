@@ -1,0 +1,11 @@
+{
+    "name": "speech-recognition-bot",
+    "version": "0.0.1",
+    "dependencies": {
+        "discord.js": "^12.2.0",
+        "libsodium-wrappers": "^0.7.6",
+        "opusscript": "0.0.7",
+        "vosk": "^0.3.31",
+        "youtube-audio-stream": "^0.3.23"
+    }
+}
